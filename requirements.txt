@@ -10,6 +10,5 @@ langchain-community==0.2.0
 langchain==0.2.0
 aiosqlite==0.20.0
 pygments==2.17.2
-# pygraphviz==1.13
-pygraphviz
+pygraphviz==1.13
 gradio==4.31.3
